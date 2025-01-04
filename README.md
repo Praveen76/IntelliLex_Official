@@ -31,8 +31,8 @@ IntelliLex is a **GenAI-powered adaptive learning platform** designed to enhance
    ```
 ---
 
-You can also checkout my other patents and publications :  [Patents and Publications](https://github.com/Praveen76/Patents-and-Publications/)
-You can also checkout my personal website for other published articles-  [Towards Machine Learning](https://towardsmachinelearning.org/)
+- You can also checkout my other patents and publications :  [Patents and Publications](https://github.com/Praveen76/Patents-and-Publications/)
+- You can also checkout my personal website for other published articles-  [Towards Machine Learning](https://towardsmachinelearning.org/)
 
 ## Confidentiality Agreement
 
