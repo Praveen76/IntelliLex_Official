@@ -1,0 +1,10 @@
+# Ignore the notebooks folder containing development notebooks
+notebooks/
+
+# Ignore the assets folder containing actual data
+assets/
+
+# Ignore specific files used for local development
+main_new.py
+test_funcs
+testing.ipynb

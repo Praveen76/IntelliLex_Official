@@ -1,0 +1,16 @@
+# Include all relevant files in the package
+recursive-include intlx_model *.py *.yml *.csv *.pkl 
+include intlx_model/VERSION
+
+# Include all requirement files
+include requirements/requirements.txt
+include requirements/test_requirements.txt
+include intlx_model/db/*
+recursive-include intlx_model/db *
+recursive-include intlx_model/Utils *
+
+
+# Exclude unwanted folders
+prune assets
+prune notebooks
+
