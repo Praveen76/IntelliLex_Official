@@ -65,6 +65,17 @@ class PredictRequest(BaseModel):
 print("Will create app now")
 # Create FastAPI instance
 app = FastAPI()
+
+from fastapi.middleware.cors import CORSMiddleware
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # or restrict to specific origins
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # Define the lifespan function
 @asynccontextmanager
 async def lifespan(app: FastAPI):
