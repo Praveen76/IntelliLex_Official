@@ -23,5 +23,5 @@ RUN rm -f *.whl
 # copy application code
 ADD /intlx_model_api/app/* ./app/
 
-EXPOSE 8001
+EXPOSE 80
 CMD ["python", "-u", "app/main.py"]
