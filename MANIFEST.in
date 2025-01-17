@@ -13,4 +13,4 @@ recursive-include intlx_model/Utils *
 # Exclude unwanted folders
 prune assets
 prune notebooks
-
+prune *.egg-info
