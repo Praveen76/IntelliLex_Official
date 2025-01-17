@@ -14,7 +14,7 @@ from fastapi import FastAPI, Request, HTTPException
 from pydantic import BaseModel
 
 import os
-print("Current directory:", os.getcwd())
+# print("Current directory:", os.getcwd())
 
 # import sys
 # print("\n".join(sys.path))
