@@ -96,13 +96,14 @@ async def lifespan(app: FastAPI):
     # Shutdown logic (if any)
     logging.info("Application is shutting down...")
 
+from fastapi.responses import JSONResponse
 
 @app.get("/")
 async def health_check():
     """
     A simple health check endpoint.
     """
-    return {"message": "Service is up and running."}
+    return JSONResponse(content={"message": "Service is up and running."}, status_code=200)
 
 
 @app.post("/predict")
