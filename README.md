@@ -3,6 +3,8 @@
 
 IntelliLex is a **GenAI-powered adaptive learning platform** designed to enhance vocabulary acquisition by integrating with users' daily communication channels. By leveraging **Retrieval-Augmented Generation (RAG)** and **adaptive learning techniques**, IntelliLex provides personalized vocabulary suggestions, enabling learners to seamlessly incorporate new words into their daily communication.
 
+--- Demo:
+https://youtu.be/vLT3ZmHIzbo
 ---
 
 ## 🚀 Features
