@@ -6,6 +6,7 @@ IntelliLex is a **GenAI-powered adaptive learning platform** designed to enhance
 --- Demo:
 [![Demo Video](https://youtu.be/vLT3ZmHIzbo)](https://youtu.be/vLT3ZmHIzbo)
 
+[Watch the demo video](https://youtu.be/vLT3ZmHIzbo)
 
 ---
 
