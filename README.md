@@ -5,7 +5,7 @@ IntelliLex is a **GenAI-powered adaptive learning platform** designed to enhance
 
 --- Demo:
 
-[![RAG powered Vocabulary Acquisition system for adaptive learning](https://github.com/Praveen76/IntelliLex_Official/blob/main/IntelliLex_thumbnail.jpg)](https://studio.youtube.com/video/NjTxQSuceQQ)
+[![RAG powered Vocabulary Acquisition system for adaptive learning](https://github.com/Praveen76/IntelliLex_Official/blob/main/IntelliLex_thumbnail.jpg)](https://youtu.be/NjTxQSuceQQ)
 
 ---
 
