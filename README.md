@@ -30,7 +30,7 @@ IntelliLex is a **GenAI-powered adaptive learning platform** designed to enhance
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/IntelliLex_Official.git
+   git clone https://github.com/Praveen76/IntelliLex_Official.git
    cd IntelliLex
    ```
 ---
